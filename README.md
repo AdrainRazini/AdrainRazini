@@ -21,7 +21,7 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
 🌍 **Portfólio/Site:** [https://adrian-razini.netlify.app/]  
-📌 **GitHub:** []  
+📌 **GitHub:** [https://github.com/AdrainRazini]  
 
 Sempre explorando novas tecnologias e desafios! 🚀  
 
