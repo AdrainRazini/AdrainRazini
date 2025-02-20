@@ -14,8 +14,11 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 ## 📂 Projetos em Destaque  
 🔹 **Site-Central** – [Acesse aqui](https://site-central.onrender.com/)  
 🔹 **Mod Menu para Roblox** – [Acesse aqui](https://adrian-razini.netlify.app/introducao)  
-🔹 **Sites de Vendas** – Plataformas interativas e responsivas  
-🔹 **Jogos Personalizados** – Criação de múltiplos jogos personalizados
+🔹 **Sites de Vendas** – [Acesse aqui](https://adrianrazini8.netlify.app/)  
+🔹 **Jogos Personalizados** –  
+   - [Scratch](https://scratch.mit.edu/studios/33798273)  
+   - [Roblox (RP Brasil)](https://www.roblox.com/pt/games/80751586210622/RP-Brasil)  
+   - [Roblox (Coroa Imortal)](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal)
 
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
