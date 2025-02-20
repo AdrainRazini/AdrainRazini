@@ -12,7 +12,7 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 - ⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods)  
 
 ## 📂 Projetos em Destaque  
-🔹 **Site-Central** – [https://site-central.onrender.com/]
+🔹 **Site-Central** – [https://site-central.onrender.com/] 
 🔹 **Mod Menu para Roblox** – Desenvolvimento de scripts personalizados  
 🔹 **Sites de Vendas** – Plataformas interativas e responsivas  
 🔹 **Jogos Personalizados** – Criação de múltiplos jogos personalizados
