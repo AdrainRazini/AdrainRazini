@@ -1,5 +1,3 @@
-
-
 # 👋 Olá! Eu sou **Adrian Razini**  
 
 💻 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
@@ -10,19 +8,17 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 ## 🔥 Habilidades  
 - 🎮 **Desenvolvimento de Mods** – Criação de scripts e ferramentas para Roblox  
 - 🌐 **Desenvolvimento Web** – HTML, CSS, JavaScript, Node.js  
-- 🎲 **Criação de Jogos** – Desenvolvimento de jogos baseados em 3D e 2D
-- ⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods) 
+- 🎲 **Criação de Jogos** – Desenvolvimento de jogos 2D e 3D  
+- ⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods)  
 
 ## 📂 Projetos em Destaque  
 🔹 **Mod Menu para Roblox** – Desenvolvimento de scripts personalizados  
 🔹 **Sites de Vendas** – Plataformas interativas e responsivas  
-🔹 **Jogos Personalizados** – Criação de Múltiplos Jogos.
+🔹 **Jogos Personalizados** – Criação de múltiplos jogos personalizados
 
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
 🌍 **Portfólio/Site:** [https://adrian-razini.netlify.app/]  
 📌 **GitHub:** [https://github.com/AdrainRazini]  
 
-Sempre explorando novas tecnologias e desafios! 🚀  
-
----
+Sempre explorando novas tecnologias e desafios! 🚀
