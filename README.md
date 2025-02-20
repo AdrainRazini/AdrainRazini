@@ -10,13 +10,13 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 ## 🔥 Habilidades  
 - 🎮 **Desenvolvimento de Mods** – Criação de scripts e ferramentas para Roblox  
 - 🌐 **Desenvolvimento Web** – HTML, CSS, JavaScript, Node.js  
-- 🎲 **Criação de Jogos** – Desenvolvimento de jogos baseados em tabuleiro e desafios interativos  
-- ⚙️ **Automação e Bots** – Ferramentas para facilitar processos  
+- 🎲 **Criação de Jogos** – Desenvolvimento de jogos baseados em 3D e 2D
+- ⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods) 
 
 ## 📂 Projetos em Destaque  
 🔹 **Mod Menu para Roblox** – Desenvolvimento de scripts personalizados  
 🔹 **Sites de Vendas** – Plataformas interativas e responsivas  
-🔹 **Jogos Personalizados** – Criação de tabuleiros, desafios e bots  
+🔹 **Jogos Personalizados** – Criação de Múltiplos Jogos.
 
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
