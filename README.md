@@ -12,7 +12,7 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 - ⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods)  
 
 ## 📂 Projetos em Destaque  
-🔹 **Site-Central** – [Acesse aqui](https://site-central-xi.vercel.app/)  
+🔹 **Site-Central** – [Acesse aqui](https://site-central-silk.vercel.app/)  
 🔹 **Mod Menu para Roblox** – [Acesse aqui](https://adrian-razini.netlify.app/introducao)  
 🔹 **Sites de Vendas** – [Acesse aqui](https://adrianrazini8.netlify.app/)  
 🔹 **Jogos Personalizados** –  
