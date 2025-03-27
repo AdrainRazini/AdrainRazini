@@ -25,13 +25,17 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
 
 
 ## 📂 Projetos em Destaque  
-🔹 **Site-Central** – [Acesse aqui](https://site-central-silk.vercel.app/)  
-🔹 **Mod Menu para Roblox** – [Acesse aqui](https://adrian-razini.netlify.app/introducao)  
-🔹 **Sites de Vendas** – [Acesse aqui](https://adrianrazini8.netlify.app/)  
-🔹 **Jogos Personalizados** –  
-   - [Scratch](https://scratch.mit.edu/studios/33798273)  
-   - [Roblox (RP Brasil)](https://www.roblox.com/pt/games/80751586210622/RP-Brasil)  
-   - [Roblox (Coroa Imortal)](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal)
+
+### 🌐 **Websites**  
+🔹 [**Site-Central**](https://site-central-silk.vercel.app/) – Plataforma principal com diversos recursos  
+🔹 [**Mod Menu para Roblox**](https://adrian-razini.netlify.app/introducao) – Ferramentas personalizadas para Roblox  
+🔹 [**Sites de Vendas**](https://adrianrazini8.netlify.app/) – Página de e-commerce funcional  
+
+### 🎮 **Jogos Personalizados**  
+🔹 **Scratch:** [Acesse aqui](https://scratch.mit.edu/studios/33798273)  
+🔹 **Roblox (RP Brasil):** [Acesse aqui](https://www.roblox.com/pt/games/80751586210622/RP-Brasil)  
+🔹 **Roblox (Coroa Imortal):** [Acesse aqui](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal)  
+
 
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
