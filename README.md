@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou **Adrian Razini**  
 
-![Logo](./img/adrian.jpeg)
+
 
 💻 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 
