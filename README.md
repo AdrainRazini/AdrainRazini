@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou **Adrian Razini**  
 
+![Logo](./assets/logo.png)
+
 💻 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 
 ## 🚀 Sobre mim  
