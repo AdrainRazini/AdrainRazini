@@ -7,13 +7,26 @@
 ## 🚀 Sobre mim  
 Apaixonado por tecnologia, programação e inovação. Tenho experiência em desenvolvimento de **Mod Menus para Roblox**, **sites de vendas** e **projetos de jogos**. Sempre buscando aprimorar minhas habilidades e criar soluções inovadoras.  
 
-## 🔥 Habilidades  
+olvimento de aplicações dinâmicas com **[Node.js](https://nodejs.org/) e [Express.js](https://expressjs.com/)**  
+- 💾 Integração com bancos de dados **[MongoDB](https://www.mongodb.com/) e [Firebase](https://firebase.google.com/)**  
+- 🔐 Autenticação de usuários com **[Google Login](https://developers.google.com/identity)** e **Firebase Auth**  
 
-🎮 **Desenvolvimento de Mods** – Criação de scripts e ferramentas para Roblox  
-🌐 **Desenvolvimento Web** – HTML, CSS, JavaScript, Node.js  
-🎲 **Criação de Jogos** – Desenvolvimento de jogos 2D e 3D  
-⚙️ **Automação e Bots** – Ferramentas para facilitar processos (Hackers ou Mods)  
+### 🎲 Criação de Jogos  
+- 🎮 Desenvolvimento de jogos 2D e 3D com **Lua ([Roblox Studio](https://developer.roblox.com/))** e **JavaScript**  
+- ⚙️ Implementação de física e inteligência artificial para NPCs  
+- 🌍 Estruturação de sistemas multiplayer e modos de jogo personalizados  
 
+### ⚙️ Automação e Bots  
+- 🤖 Criação de **bots e ferramentas de automação** para simplificar processos  
+- 🎛️ Desenvolvimento de **hacks e scripts personalizados** para jogos  
+- 💬 Programação de **bots de Discord e automações para websites**  
+
+### 🔐 Segurança e Exploração (Ethical Hacking)  
+- 🛡️ Conhecimento sobre vulnerabilidades em jogos e sistemas  
+- 🔓 Técnicas de **bypass em sistemas de proteção e segurança**  
+- 🕵️‍♂️ Desenvolvimento de **ferramentas para análise de exploits**  
+
+---  
 ## 📂 Tecnologias  
 
 <div align="left">
