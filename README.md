@@ -5,9 +5,18 @@
 💻 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 
 ## 🚀 Sobre mim  
-Apaixonado por tecnologia, programação e inovação. Tenho experiência em desenvolvimento de **Mod Menus para Roblox**, **sites de vendas** e **projetos de jogos**. Sempre buscando aprimorar minhas habilidades e criar soluções inovadoras.  
+---  
 
-olvimento de aplicações dinâmicas com **[Node.js](https://nodejs.org/) e [Express.js](https://expressjs.com/)**  
+## 🔥 Habilidades  
+
+### 🎮 Desenvolvimento de Mods  
+- 🛠️ Criação de scripts e ferramentas personalizadas para [Roblox](https://www.roblox.com/)  
+- ⚡ Desenvolvimento de **Mod Menus** para aprimorar a experiência do jogador  
+- 🔍 Conhecimento em **Lua**, **Executores de Scripts** e **APIs de Exploit**  
+
+### 🌐 Desenvolvimento Web  
+- 📜 Estruturação de sites com **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) e [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**  
+- 🚀 Desenvolvimento de aplicações dinâmicas com **[Node.js](https://nodejs.org/) e [Express.js](https://expressjs.com/)**  
 - 💾 Integração com bancos de dados **[MongoDB](https://www.mongodb.com/) e [Firebase](https://firebase.google.com/)**  
 - 🔐 Autenticação de usuários com **[Google Login](https://developers.google.com/identity)** e **Firebase Auth**  
 
