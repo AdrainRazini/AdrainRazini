@@ -21,7 +21,7 @@
 - 🔐 Autenticação de usuários com **[Google Login](https://developers.google.com/identity)** e **Firebase Auth**  
 
 ### 🎲 Criação de Jogos  
-- 🎮 Desenvolvimento de jogos 2D e 3D com **Lua ([Roblox Studio](roblox.com))** e **JavaScript**  
+- 🎮 Desenvolvimento de jogos 2D e 3D com **Lua ([Roblox Studio](https://create.roblox.com/))** e **JavaScript**  
 - ⚙️ Implementação de física e inteligência artificial para NPCs  
 - 🌍 Estruturação de sistemas multiplayer e modos de jogo personalizados  
 
