@@ -27,6 +27,7 @@ Apaixonado por tecnologia, programação e inovação. Tenho experiência em des
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/Google%20Login-4285F4?style=for-the-badge&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Gaming-0E6EB8?style=for-the-badge&logo=gamepad&logoColor=white">
+<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
 
 
 </div>
