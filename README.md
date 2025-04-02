@@ -53,9 +53,6 @@
   <img src="https://img.shields.io/badge/Roblox%20Studio-323232?style=for-the-badge&logo=roblox&logoColor=white">
 <img src="https://img.shields.io/badge/Hacker-00FF00?style=for-the-badge&logo=matrix&logoColor=black">
 
-<img alt="Node Current" src="https://img.shields.io/node/v/:packageName">
-
-
 </div>
 
 
