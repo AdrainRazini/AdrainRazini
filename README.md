@@ -46,7 +46,7 @@
 | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | ![Google Login](https://img.shields.io/badge/Google%20Login-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Gaming](https://img.shields.io/badge/Gaming-0E6EB8?style=for-the-badge&logo=gamepad&logoColor=white) |
 | ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white) | ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-323232?style=for-the-badge&logo=roblox&logoColor=white) |
-| ![Hacker](https://img.shields.io/badge/Hacker-00FF00?style=for-the-badge&logo=matrix&logoColor=black) |  |
+| ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | ![Hacker](https://img.shields.io/badge/Hacker-00FF00?style=for-the-badge&logo=matrix&logoColor=black) |
 
 
 
