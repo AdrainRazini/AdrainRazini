@@ -54,6 +54,7 @@
 
 ### 🌐 **Websites**  
 🔹 [**Redação-Automática**](https://digita-o-autom-tica.vercel.app/) – Plataforma principal com diversos recursos  
+🔹 [**Calendário **](https://alura-js-projeto-de-vida.vercel.app/) – Página de um calendário funcional 
 🔹 [**Site-Central**](https://site-central-silk.vercel.app/) – Plataforma principal com diversos recursos  
 🔹 [**Mod Menu para Roblox**](https://adrian-razini.netlify.app/introducao) – Ferramentas personalizadas para Roblox  
 🔹 [**Sites de Vendas**](https://adrianrazini8.netlify.app/) – Página de e-commerce funcional  
