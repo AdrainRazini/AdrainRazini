@@ -53,17 +53,16 @@
 ## 📂 Projetos em Destaque  
 
 ### 🌐 **Websites**  
-🔹 [**Redação-Automática**](https://digita-o-autom-tica.vercel.app/) – Plataforma principal com diversos recursos  
-🔹 [**Calendário **](https://alura-js-projeto-de-vida.vercel.app/) – Página de um calendário funcional 
-🔹 [**Site-Central**](https://site-central-silk.vercel.app/) – Plataforma principal com diversos recursos  
-🔹 [**Mod Menu para Roblox**](https://adrian-razini.netlify.app/introducao) – Ferramentas personalizadas para Roblox  
-🔹 [**Sites de Vendas**](https://adrianrazini8.netlify.app/) – Página de e-commerce funcional  
+🔹 [**Redação Automática**](https://digita-o-autom-tica.vercel.app/) – Plataforma com geração de redações automáticas  
+🔹 [**Calendário**](https://alura-js-projeto-de-vida.vercel.app/) – Página de calendário funcional com eventos  
+🔹 [**Site Central**](https://site-central-silk.vercel.app/) – Plataforma com múltiplos recursos e links úteis  
+🔹 [**Mod Menu para Roblox**](https://adrian-razini.netlify.app/introducao) – Ferramentas personalizadas para jogos no Roblox  
+🔹 [**Site de Vendas**](https://adrianrazini8.netlify.app/) – Página de e-commerce com layout funcional  
 
 ### 🎮 **Jogos Personalizados**  
-🔹 **Scratch:** [Acesse aqui](https://scratch.mit.edu/studios/33798273)  
-🔹 **Roblox (RP Brasil):** [Acesse aqui](https://www.roblox.com/pt/games/80751586210622/RP-Brasil)  
-🔹 **Roblox (Coroa Imortal):** [Acesse aqui](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal)  
-
+🔹 **Scratch:** [Acesse aqui](https://scratch.mit.edu/studios/33798273) – Estúdio com jogos e interações personalizadas  
+🔹 **Roblox (RP Brasil):** [Acesse aqui](https://www.roblox.com/pt/games/80751586210622/RP-Brasil) – Mapa de roleplay brasileiro  
+🔹 **Roblox (Coroa Imortal):** [Acesse aqui](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal) – Jogo temático com desafios e poderes  
 
 ## 📬 Contato  
 📧 **E-mail:** [adrianrazin60@gmail.com]  
