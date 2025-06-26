@@ -53,6 +53,7 @@
 ## 📂 Projetos em Destaque  
 
 ### 🌐 **Websites**  
+🔹 [**Inventario**](https://inventario-75zh.onrender.com/) – Plataforma com geração de redações automáticas  
 🔹 [**Redação Automática**](https://digita-o-autom-tica.vercel.app/) – Plataforma com geração de redações automáticas  
 🔹 [**Calendário**](https://alura-js-projeto-de-vida.vercel.app/) – Página de calendário funcional com eventos  
 🔹 [**Site Central**](https://site-central-silk.vercel.app/) – Plataforma com múltiplos recursos e links úteis  
