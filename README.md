@@ -1,4 +1,4 @@
-![Top Bar Animado](./assets/Grid.svg)
+![Top Bar Animado](./assets/Grid.gif)
 
 # Olá! Eu sou **Adrian Razini**  
 ## Sobre mim  
