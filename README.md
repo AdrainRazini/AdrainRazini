@@ -77,4 +77,4 @@ Sempre explorando novas tecnologias e desafios! 🚀
 ![](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
-![Snake animation](https://github.com/adrainrazini/adrainrazini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AdrainRazini/AdrainRazini/blob/output/github-contribution-grid-snake.svg)
