@@ -32,10 +32,7 @@ Game development, Node.js applications, and menu mod creation.
 
 ### 🌐 **Websites**  
 <p align="left"> <a href="https://inventario-2-k2b3.vercel.app/" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" title="Inventario"/> </a> <a href="https://digita-o-autom-tica.vercel.app/" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/1828/1828760.png" title="Redação Automática"/> </a> <a href="https://alura-js-projeto-de-vida.vercel.app/" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/2920/2920251.png" title="Calendário"/> </a> <a href="https://site-central-silk.vercel.app/" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/9693/9693688.png" title="Site Central"/> </a> <a href="https://adrian-razini.netlify.app/introducao" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/825/825561.png" title="Mod Menu Roblox"/> </a> <a href="https://adrianrazini8.netlify.app/" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/891/891462.png" title="Site de Vendas"/> </a> </p>
-### 🎮 **Jogos Personalizados**  
-🔹 **Scratch:** [Acesse aqui](https://scratch.mit.edu/studios/33798273) – Estúdio com jogos e interações personalizadas  
-🔹 **Roblox (RP Brasil):** [Acesse aqui](https://www.roblox.com/pt/games/80751586210622/RP-Brasil) – Mapa de roleplay brasileiro  
-🔹 **Roblox (Coroa Imortal):** [Acesse aqui](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal) – Jogo temático com desafios e poderes  
+<p align="left"> <a href="https://scratch.mit.edu/studios/33798273" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/5969/5969189.png" title="Scratch Jogos"/> </a> <a href="https://www.roblox.com/pt/games/80751586210622/RP-Brasil" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/906/906343.png" title="Roblox RP Brasil"/> </a> <a href="https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal" target="_blank"> <img height="70" src="https://cdn-icons-png.flaticon.com/512/906/906343.png" title="Roblox Coroa Imortal"/> </a> </p>
 
  
 
