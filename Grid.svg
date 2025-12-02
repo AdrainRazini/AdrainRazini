@@ -22,7 +22,7 @@
   <!-- texto animado -->
   <text class="text" y="50">
     <tspan id="scroll" x="900">
-      🔥 Projeto: Meu README — atualizando diariamente • 🚀 • Follow for more
+      🔥 Project: My README — updated daily • 🚀 • Follow for more information
     </tspan>
 
     <!-- Agora usando href normal (sem xlink) -->
@@ -36,3 +36,4 @@
     />
   </text>
 </svg>
+
