@@ -4,6 +4,12 @@
 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 Game development, Node.js applications, and menu mod creation.
 ---
+---
+<div align="left">
+  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+---
 
 ## Tecnologias  
 
@@ -44,10 +50,6 @@ Game development, Node.js applications, and menu mod creation.
 <a href="https://github.com/AdrainRazini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-<div align="left">
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
 
   <a href="https://instagram.com/adrian75556435" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
