@@ -1,4 +1,4 @@
-![Top Bar](./assets/Grid.svg)
+![Top Bar](https://raw.githubusercontent.com/AdrainRazini/AdrainRazini/refs/heads/main/Grid.svg)
 
 # Olá! Eu sou **Adrian Razini**  
 ## Sobre mim  
