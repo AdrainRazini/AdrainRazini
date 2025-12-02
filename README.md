@@ -68,10 +68,8 @@
  
 
 ## 📬 Contatos
-
-🌍 **Portfólio/Site:** https://adrian-liard.vercel.app  
-📌 **GitHub:** https://github.com/AdrainRazini  
----
+🌍 [Portfólio/Site:](https://adrian-liard.vercel.app)
+📌 [GitHub:](https://github.com/AdrainRazini)  
 <div align="left">
   <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -89,7 +87,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </div>
----
+
 
 Sempre explorando novas tecnologias e desafios! 🚀
 ![](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
