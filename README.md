@@ -1,4 +1,4 @@
-![Top Bar Animado](./assets/Grid.svg)
+![Top Bar Animado](https://github.com/AdrainRazini/AdrainRazini/blob/main/Grid.svg)
 
 # Olá! Eu sou **Adrian Razini**  
 ## Sobre mim  
