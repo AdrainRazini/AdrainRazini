@@ -4,11 +4,9 @@
 ## Sobre mim  
 ---
 
-<div align="center">
 **Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 Game development, Node.js applications, and menu mod creation.
-</div>
-  
+
 ---
 
 ---
