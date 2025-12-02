@@ -1,3 +1,5 @@
+![Top Bar](./assets/Grid.svg)
+
 # Olá! Eu sou **Adrian Razini**  
 ## Sobre mim  
 ---
