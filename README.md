@@ -1,6 +1,10 @@
 # Olá! Eu sou **Adrian Razini**  
-**Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
 ## Sobre mim  
+---
+**Desenvolvedor | Criador de Mods e Jogos | Programador Web**  
+Game development, Node.js applications, and menu mod creation.
+---
+
 ## Tecnologias  
 
 ![Snake animation](https://github.com/AdrainRazini/AdrainRazini/blob/main/github-user-contribution.svg)
