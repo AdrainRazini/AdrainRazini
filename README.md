@@ -65,16 +65,34 @@
 🔹 **Roblox (RP Brasil):** [Acesse aqui](https://www.roblox.com/pt/games/80751586210622/RP-Brasil) – Mapa de roleplay brasileiro  
 🔹 **Roblox (Coroa Imortal):** [Acesse aqui](https://www.roblox.com/pt/games/99388174674538/Coroa-Imortal) – Jogo temático com desafios e poderes  
 
-## 📬 Contato  
-📧 **E-mail:** [adrianrazin60@gmail.com]  
-🌍 **Portfólio/Site:** [https://adrian-razini.netlify.app/]  
-📌 **GitHub:** [https://github.com/AdrainRazini]  
+ 
+
+---
+## 📬 Contatos
+
+🌍 **Portfólio/Site:** https://adrian-liard.vercel.app  
+📌 **GitHub:** https://github.com/AdrainRazini  
+
+<div align="left">
+  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/adrian75556435" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:adrianrazin60@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/adrian-razini-rangel" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+</div>
+---
 
 Sempre explorando novas tecnologias e desafios! 🚀
-
-
-
 ![](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
-![Snake animation](https://github.com/AdrainRazini/AdrainRazini/blob/output/github-contribution-grid-snake.svg)
