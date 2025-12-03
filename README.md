@@ -28,6 +28,10 @@ Game development, Node.js applications, and mod/menu creation.
 
 </div>
 
+<div align="center">
+  
+![Pc](https://github.com/AdrainRazini/AdrainRazini/blob/main/Pc.svg)
+
 ---
 
 ## Tecnologias  
@@ -35,6 +39,9 @@ Game development, Node.js applications, and mod/menu creation.
 <div align="center">
 
 ![Snake animation](https://github.com/AdrainRazini/AdrainRazini/blob/main/github-user-contribution.svg)
+
+</div>
+
 
 <table>
   <tr>
@@ -140,5 +147,4 @@ Game development, Node.js applications, and mod/menu creation.
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
 </div>
 
-![Pc](https://github.com/AdrainRazini/AdrainRazini/blob/main/Pc.svg)
 
