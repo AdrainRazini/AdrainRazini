@@ -9,7 +9,6 @@ Game development, Node.js applications, and menu mod creation.
 
 ---
 
----
 <div align="center">
 <a href="https://adrian-liard.vercel.app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
 <a href="https://github.com/AdrainRazini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
