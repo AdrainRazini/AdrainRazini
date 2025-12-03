@@ -1,103 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 800 480"
-     width="800" height="480"
-     preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" preserveAspectRatio="xMidYMid meet">
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0f172a"/>
+    <!-- Laptop base -->
+    <g id="laptop" transform="translate(80,60)">
 
-  <!-- Laptop base -->
-  <g id="laptop" transform="translate(80,60)">
-    <!-- screen frame -->
-    <rect x="0" y="0" rx="12" ry="12" width="640" height="360" fill="#0b1220" stroke="#111827" stroke-width="6"/>
-    <!-- screen inner -->
-    <rect x="20" y="18" rx="8" ry="8" width="600" height="320" fill="#0b1220" />
+        <!-- screen frame -->
+        <rect x="0" y="0" rx="12" ry="12" width="640" height="360" fill="#0b1220" stroke="#111827" stroke-width="6"/>
 
-    <!-- actual screen area (where text appears) -->
-    <g transform="translate(40,40)">
-      <!-- screen background -->
-      <rect width="560" height="280" rx="6" ry="6" fill="#021124"/>
-      
-      <!-- mask that will reveal/hide the typed text -->
-      <mask id="revealMask">
-        <!-- start with black (hide) then white (show) controlled by animated rect -->
-        <rect x="0" y="0" width="560" height="280" fill="black"/>
-        <!-- animated white rectangle reveals text -->
-        <rect id="maskRect" x="32" y="120" width="0" height="28" fill="white">
-          <!-- animate width to simulate typing then reverse to delete -->
-          <animate attributeName="width"
-                   values="0;220;220;0;0"
-                   keyTimes="0;0.45;0.6;0.95;1"
-                   dur="4s"
-                   repeatCount="indefinite"
-                   calcMode="spline"
-                   keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"/>
-        </rect>
-      </mask>
+        <!-- screen inner -->
+        <rect x="20" y="18" rx="8" ry="8" width="600" height="320" fill="#0b1220" />
 
-      <!-- the typed text (fixed) but shown only where mask allows -->
-      <g mask="url(#revealMask)">
-        <text id="typedText"
-              x="32" y="140"
-              font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace"
-              font-size="22"
-              letter-spacing="2"
-              fill="#e6f0ff">
-          hello word ;)
-        </text>
-      </g>
+        <!-- actual screen area -->
+        <g transform="translate(40,40)">
+            <rect width="560" height="280" rx="6" ry="6" fill="#021124"/>
 
-      <!-- blinking caret (moves with typing) -->
-      <rect id="caret" x="32" y="112" width="2" height="32" rx="1" fill="#cfe8ff">
-        <!-- Animate caret X to follow the mask width (approx positions).
-             We move from start to near the end while matching keyTimes above. -->
-        <animate attributeName="x"
-                 values="32;252;252;32;32"
-                 keyTimes="0;0.45;0.6;0.95;1"
-                 dur="4s"
-                 repeatCount="indefinite"
-                 calcMode="spline"
-                 keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"/>
-        <!-- caret blink -->
-        <animate attributeName="opacity"
-                 values="1;0;1"
-                 keyTimes="0;0.5;1"
-                 dur="0.8s"
-                 repeatCount="indefinite"/>
-      </rect>
+            <!-- mask -->
+            <mask id="revealMask">
+                <rect x="0" y="0" width="560" height="280" fill="black"/>
+                <rect id="maskRect" x="32" y="120" width="0" height="28" fill="white">
+                    <animate attributeName="width"
+                        values="0;220;220;0;0"
+                        keyTimes="0;0.45;0.6;0.95;1"
+                        dur="4s"
+                        repeatCount="indefinite"
+                        calcMode="spline"
+                        keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"/>
+                </rect>
+            </mask>
 
-      <!-- subtle glow behind the text for readability -->
-      <rect x="24" y="104" width="520" height="56" rx="6" fill="url(#screenGlow)" opacity="0.06"/>
+            <!-- text -->
+            <g mask="url(#revealMask)">
+                <text id="typedText"
+                    x="32" y="140"
+                    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace"
+                    font-size="22"
+                    letter-spacing="2"
+                    fill="#e6f0ff">
+                    hello word ;)
+                </text>
+            </g>
 
-      <defs>
-        <linearGradient id="screenGlow" x1="0" x2="1">
-          <stop offset="0" stop-color="#6ee7b7"/>
-          <stop offset="1" stop-color="#60a5fa"/>
-        </linearGradient>
-      </defs>
+            <!-- caret -->
+            <rect id="caret" x="32" y="112" width="2" height="32" rx="1" fill="#cfe8ff">
+                <animate attributeName="x"
+                    values="32;252;252;32;32"
+                    keyTimes="0;0.45;0.6;0.95;1"
+                    dur="4s"
+                    repeatCount="indefinite"
+                    calcMode="spline"
+                    keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"/>
+                <animate attributeName="opacity" values="1;0;1"
+                    keyTimes="0;0.5;1"
+                    dur="0.8s"
+                    repeatCount="indefinite"/>
+            </rect>
+
+            <!-- glow -->
+            <rect x="24" y="104" width="520" height="56" rx="6" fill="url(#screenGlow)" opacity="0.06"/>
+
+            <defs>
+                <linearGradient id="screenGlow" x1="0" x2="1">
+                    <stop offset="0" stop-color="#6ee7b7"/>
+                    <stop offset="1" stop-color="#60a5fa"/>
+                </linearGradient>
+            </defs>
+        </g>
+
+        <!-- laptop hinge / keyboard -->
+        <g transform="translate(0,380)">
+            <rect x="40" y="0" width="560" height="18" rx="4" fill="#0b1220" stroke="#0b1220"/>
+            <rect x="0" y="20" width="640" height="28" rx="6" fill="#111827" stroke="#0b1220"/>
+            <rect x="280" y="28" width="80" height="12" rx="3" fill="#0b1220" opacity="0.6"/>
+        </g>
+
+        <!-- shadow -->
+        <ellipse cx="320" cy="440" rx="200" ry="18" fill="#000" opacity="0.25"/>
     </g>
 
-    <!-- laptop hinge / keyboard base -->
-    <g transform="translate(0,380)">
-      <rect x="40" y="0" width="560" height="18" rx="4" fill="#0b1220" stroke="#0b1220"/>
-      <rect x="0" y="20" width="640" height="28" rx="6" fill="#111827" stroke="#0b1220"/>
-      <!-- trackpad -->
-      <rect x="280" y="28" width="80" height="12" rx="3" fill="#0b1220" opacity="0.6"/>
+    <!-- entrance animation -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" begin="0s" dur="0.6s" fill="freeze"/>
     </g>
-
-    <!-- small base shadow -->
-    <ellipse cx="320" cy="440" rx="200" ry="18" fill="#000" opacity="0.25"/>
-  </g>
-
-  <!-- subtle entrance animation for the laptop (single time) -->
-  <g>
-    <animateTransform attributeName="transform"
-                      type="translate"
-                      from="0,10" to="0,0"
-                      begin="0s"
-                      dur="0.6s"
-                      fill="freeze"/>
-  </g>
-
 </svg>
