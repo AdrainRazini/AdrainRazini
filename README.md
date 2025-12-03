@@ -118,7 +118,7 @@ Game development, Node.js applications, and mod/menu creation.
 
 <div align="left">
 
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
+<a href="https://www.youtube.com/@MasterMods-rp" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
