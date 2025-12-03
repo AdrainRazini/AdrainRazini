@@ -1,6 +1,9 @@
 <div align="center">
+  
 ![Top Bar Animado](https://github.com/AdrainRazini/AdrainRazini/blob/main/Grid.svg)
+
 </div>
+
 
 # Olá! Eu sou **Adrian Razini**  
 ## Sobre mim  
