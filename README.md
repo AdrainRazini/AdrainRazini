@@ -82,38 +82,47 @@ Game development, Node.js applications, and mod/menu creation.
 <p align="left">
 
 <a href="https://inventario-2-k2b3.vercel.app/" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" title="Inventario"/>
+  <!-- Icone: Clipboard List -->
+  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://digita-o-autom-tica.vercel.app/" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/1828/1828760.png" title="Redação Automática"/>
+  <!-- Icone: File Pen -->
+  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://alura-js-projeto-de-vida.vercel.app/" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/2920/2920251.png" title="Calendário"/>
+  <!-- Icone: Calendar -->
+  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://site-central-silk.vercel.app/" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/9693/9693688.png" title="Site Central"/>
+  <!-- Icone: Globe -->
+  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://adrian-razini.netlify.app/introducao" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/825/825561.png" title="Mod Menu Roblox"/>
+  <!-- Icone: Code -->
+  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://adrianrazini8.netlify.app/" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/891/891462.png" title="Site de Vendas"/>
+  <!-- Icone: Shop -->
+  <svg height="55" viewBox="0 0 576 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://scratch.mit.edu/studios/33798273" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/5969/5969189.png" title="Scratch Jogos"/>
+  <!-- Icone: Gamepad -->
+  <svg height="55" viewBox="0 0 640 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 <a href="https://www.roblox.com/pt/games/80751586210622/RP-Brasil" target="_blank">
-  <img height="70" src="https://cdn-icons-png.flaticon.com/512/906/906343.png" title="Roblox RP Brasil"/>
+  <!-- Icone: Cube (representando Roblox) -->
+  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
 </a>
 
 </p>
+
 
 ---
 
