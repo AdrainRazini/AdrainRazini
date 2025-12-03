@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="100%" height="auto">
+  <defs>
+    <style>
+      /* Tela */
+      .screen{
+        fill:#0c121a;
+        rx:12; ry:12;
+      }
+
+      /* Texto digitado */
+      .type {
+        font-family: "Courier New", monospace;
+        font-size: 32px;
+        fill: #e8faff;
+      }
+
+      /* Cursor piscando */
+      .cursor {
+        animation: blink 0.9s infinite;
+      }
+
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+
+      /* Digitação com steps */
+      @keyframes typing {
+        0% { width: 0ch; }
+        40% { width: var(--chars); }
+        60% { width: var(--chars); }
+        100% { width: 0ch; }
+      }
+
+      /* Troca de frases */
+      @keyframes swap {
+        0%   { content: "Hello World"; }
+        20%  { content: "Olá Mundo"; }
+        40%  { content: "Bem-vindo"; }
+        60%  { content: "Carregando..."; }
+        80%  { content: "Adrian Razini"; }
+        100% { content: "Hello World"; }
+      }
+
+      /* Sistema de troca com pseudo-elemento */
+      .typed::after {
+        content: "Hello World";
+        animation: swap 12s steps(1) infinite;
+      }
+
+      /* Digitação */
+      .typed {
+        overflow: hidden;
+        white-space: nowrap;
+        display: inline-block;
+        width: 0ch;
+        --chars: 16ch;
+        animation: typing 3s steps(16) infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Laptop -->
+  <rect x="100" y="60" width="700" height="380" fill="#1b2430" rx="18"/>
+
+  <!-- Tela -->
+  <rect x="140" y="100" width="620" height="300" class="screen"/>
+
+  <!-- Texto com animação -->
+  <g transform="translate(170,240)">
+    <text class="type">
+      <tspan class="typed"></tspan>
+      <tspan class="cursor">|</tspan>
+    </text>
+  </g>
+</svg>
