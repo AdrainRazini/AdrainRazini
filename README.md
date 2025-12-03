@@ -93,32 +93,21 @@ Game development, Node.js applications, and mod/menu creation.
   <img src="https://img.shields.io/badge/Calendário-00C853?style=for-the-badge&logo=google-calendar&logoColor=white" />
 </a>
 
-<a href="https://site-central-silk.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Site_Central-FF6F00?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 <a href="https://adrian-razini.netlify.app/introducao" target="_blank">
   <img src="https://img.shields.io/badge/Mod_Menu_Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
 </a>
 
-<a href="https://adrianrazini8.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Site_de_Vendas-6200EA?style=for-the-badge&logo=shopping-cart&logoColor=white" />
+<a href="https://animal-simulator-server.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AnimalSimulator-D50000?style=for-the-badge&logo=roblox&logoColor=white" />
+</a>
+
+<a href="https://site-central-silk.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Site_Central-FF6F00?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://scratch.mit.edu/studios/33798273" target="_blank">
   <img src="https://img.shields.io/badge/Scratch_Jogos-FFAA00?style=for-the-badge&logo=scratch&logoColor=white" />
 </a>
-
-<a href="https://www.roblox.com/pt/games/80751586210622/RP-Brasil" target="_blank">
-  <img src="https://img.shields.io/badge/Roblox_RP_Brasil-D50000?style=for-the-badge&logo=roblox&logoColor=white" />
-</a>
-
-<a href="https://animal-simulator-server.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/ModMenu-D50000?style=for-the-badge&logo=roblox&logoColor=white" />
-</a>
-
-
-
 
 </p>
 
