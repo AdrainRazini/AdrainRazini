@@ -81,47 +81,74 @@ Game development, Node.js applications, and mod/menu creation.
 
 <p align="left">
 
-<a href="https://inventario-2-k2b3.vercel.app/" target="_blank">
-  <!-- Icone: Clipboard List -->
-  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://inventario-2-k2b3.vercel.app/" target="_blank" title="Inventário">
+  <!-- Ícone: Lista -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M4 6h2v2H4V6zm4 0h12v2H8V6zm-4 5h2v2H4v-2zm4 0h12v2H8v-2zm-4 5h2v2H4v-2zm4 0h12v2H8v-2z"/>
+  </svg>
 </a>
 
-<a href="https://digita-o-autom-tica.vercel.app/" target="_blank">
-  <!-- Icone: File Pen -->
-  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://digita-o-autom-tica.vercel.app/" target="_blank" title="Redação Automática">
+  <!-- Ícone: Documento -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+    <path d="M14 2v6h6"/>
+  </svg>
 </a>
 
-<a href="https://alura-js-projeto-de-vida.vercel.app/" target="_blank">
-  <!-- Icone: Calendar -->
-  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://alura-js-projeto-de-vida.vercel.app/" target="_blank" title="Calendário">
+  <!-- Ícone: Calendário -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M19 4h-1V2h-2v2H8V2H6v2H5a2 2 0 0 0-2 2v14a2 
+    2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 
+    16H5V9h14v11z"/>
+  </svg>
 </a>
 
-<a href="https://site-central-silk.vercel.app/" target="_blank">
-  <!-- Icone: Globe -->
-  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://site-central-silk.vercel.app/" target="_blank" title="Site Central">
+  <!-- Ícone: Globo -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm0 
+    18a8 8 0 0 1 0-16 8 8 0 0 1 0 16z"/>
+    <path d="M2 12h20M12 2c-3 4-3 14 0 20M12 2c3 4 3 14 0 20"/>
+  </svg>
 </a>
 
-<a href="https://adrian-razini.netlify.app/introducao" target="_blank">
-  <!-- Icone: Code -->
-  <svg height="55" viewBox="0 0 448 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://adrian-razini.netlify.app/introducao" target="_blank" title="Mod Menu Roblox">
+  <!-- Ícone: Código -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M8 17l-5-5 5-5M16 7l5 5-5 5"/>
+  </svg>
 </a>
 
-<a href="https://adrianrazini8.netlify.app/" target="_blank">
-  <!-- Icone: Shop -->
-  <svg height="55" viewBox="0 0 576 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://adrianrazini8.netlify.app/" target="_blank" title="Site de Vendas">
+  <!-- Ícone: Carrinho -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M7 4H3v2h3l3.6 7.59-1.35 2.44A1 1 0 0 0 9 
+    18h12v-2H9.42l.93-1.67h7.45a1 1 0 0 0 .9-.55L22 
+    6H6.21"/>
+    <circle cx="10" cy="20" r="1"/>
+    <circle cx="18" cy="20" r="1"/>
+  </svg>
 </a>
 
-<a href="https://scratch.mit.edu/studios/33798273" target="_blank">
-  <!-- Icone: Gamepad -->
-  <svg height="55" viewBox="0 0 640 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://scratch.mit.edu/studios/33798273" target="_blank" title="Scratch Jogos">
+  <!-- Ícone: Controle -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M6 8l-4 4 4 4v-3h5v3l4-4-4-4v3H6z"/>
+    <circle cx="17" cy="12" r="1.5"/>
+  </svg>
 </a>
 
-<a href="https://www.roblox.com/pt/games/80751586210622/RP-Brasil" target="_blank">
-  <!-- Icone: Cube (representando Roblox) -->
-  <svg height="55" viewBox="0 0 512 512"><path fill="currentColor" d="M..."/></svg>
+<a href="https://www.roblox.com/pt/games/80751586210622/RP-Brasil" target="_blank" title="Roblox RP Brasil">
+  <!-- Ícone: Cubo -->
+  <svg height="55" viewBox="0 0 24 24" fill="black">
+    <path d="M12 2l9 5v10l-9 5-9-5V7z"/>
+  </svg>
 </a>
 
 </p>
+
 
 
 ---
