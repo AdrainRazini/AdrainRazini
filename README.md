@@ -2,6 +2,9 @@
 
 ![Top Bar Animado](https://github.com/AdrainRazini/AdrainRazini/blob/main/Grid.svg)
 
+![Pc](https://github.com/AdrainRazini/AdrainRazini/edit/main/Pc.svg)
+
+
 </div>
 
 # Olá! Eu sou **Adrian Razini**  
