@@ -28,7 +28,7 @@ Game development, Node.js applications, and mod/menu creation.
 
 ---
 
-## 🛠 Tecnologias  
+## Tecnologias  
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Game development, Node.js applications, and mod/menu creation.
 
 ---
 
-## 🌐 Websites  
+## Websites  
 
 <p align="left">
 
@@ -117,7 +117,7 @@ Game development, Node.js applications, and mod/menu creation.
 
 ---
 
-## 📞 Contatos
+## Contatos
 
 <div align="left">
 
