@@ -29,7 +29,7 @@ Game development, Node.js applications, and menu mod creation.
 
 <table>
   <tr>
-    <th colspan="4" align="center">🔥 Tecnologias & Especialidades (Baseado no Seu Histórico)</th>
+    <th colspan="4" align="center">Technologies & Specialties</th>
   </tr>
 
   <!-- Linha 1 -->
