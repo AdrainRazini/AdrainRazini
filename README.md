@@ -27,7 +27,113 @@ Game development, Node.js applications, and menu mod creation.
 
 ![Snake animation](https://github.com/AdrainRazini/AdrainRazini/blob/main/github-user-contribution.svg)
 
-<table> <tr> <th colspan="2" align="center">Linguagens e Tecnologias</th> </tr> <!-- Linha 1 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br><strong>HTML5</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br><strong>CSS3</strong> </td> </tr> <!-- Linha 2 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br><strong>JavaScript</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <br><strong>Node.js</strong> </td> </tr> <!-- Linha 3 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <br><strong>Express.js</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <br><strong>MongoDB</strong> </td> </tr> <!-- Linha 4 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <br><strong>Lua</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <br><strong>Firebase</strong> </td> </tr> <!-- Linha 5 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/Google%20Login-4285F4?style=for-the-badge&logo=google&logoColor=white"> <br><strong>Google Login</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/Gaming-0E6EB8?style=for-the-badge&logo=gamepad&logoColor=white"> <br><strong>Gaming</strong> </td> </tr> <!-- Linha 6 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"> <br><strong>Roblox</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/Roblox%20Studio-323232?style=for-the-badge&logo=roblox&logoColor=white"> <br><strong>Roblox Studio</strong> </td> </tr> <!-- Linha 7 --> <tr> <td align="center"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <br><strong>Unity</strong> </td> <td align="center"> <img src="https://img.shields.io/badge/Hacker-00FF00?style=for-the-badge&logo=matrix&logoColor=black"> <br><strong>Hacker / Pentest</strong> </td> </tr> </table>
+<table>
+  <tr>
+    <th colspan="2" align="center">🎮 Games & Motores</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"><br><strong>Roblox</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Roblox%20Studio-323232?style=for-the-badge&logo=roblox&logoColor=white"><br><strong>Roblox Studio</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"><br><strong>Lua (Scripting)</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"><br><strong>Unity Engine</strong>
+    </td>
+  </tr>
+
+  <!-- WEB DEVELOPMENT -->
+  <tr>
+    <th colspan="2" align="center">🌐 Desenvolvimento Web</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br><strong>CSS3</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br><strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"><br><strong>Node.js</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"><br><strong>Express.js</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"><br><strong>Firebase</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br><strong>MongoDB</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><br><strong>Vercel (Deploy)</strong>
+    </td>
+  </tr>
+
+  <!-- AUTOMATION -->
+  <tr>
+    <th colspan="2" align="center">⚙️ Automação & Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"><br><strong>Python / Tkinter</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VBS-4F4F4F?style=for-the-badge&logo=windows-terminal&logoColor=white"><br><strong>Scripts VBS</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=api&logoColor=white"><br><strong>APIs REST / Webhooks</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Automation-555555?style=for-the-badge&logo=robot&logoColor=white"><br><strong>Automações Desktop</strong>
+    </td>
+  </tr>
+
+  <!-- SECURITY -->
+  <tr>
+    <th colspan="2" align="center">🔐 Segurança & Pentest</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hacker-00FF00?style=for-the-badge&logo=matrix&logoColor=black"><br><strong>Segurança Digital</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AntiPhishing-FF0000?style=for-the-badge&logo=shield&logoColor=white"><br><strong>Proteção / Phishing Awareness</strong>
+    </td>
+  </tr>
+
+  <!-- TOOLS -->
+  <tr>
+    <th colspan="2" align="center">🛠️ Ferramentas & Utilidades</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"><br><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br><strong>VS Code</strong>
+    </td>
+  </tr>
+
+</table>
+
 </div>
 
 ---
